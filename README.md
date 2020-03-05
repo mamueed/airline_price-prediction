@@ -1,1 +1,3 @@
-# airline_regression
+# airline price prediction.
+
+Different algorithms being used to understand airline price prediction.
